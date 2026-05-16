@@ -1,10 +1,10 @@
 name = "LeanHello"
 version = "0.1.0"
-defaultTargets = ["leanhello"]
+# defaultTargets = ["leanhello"]
 
-[[lean_lib]]
-name = "LeanHello"
+# [[lean_lib]]
+# name = "LeanHello"
 
-[[lean_exe]]
-name = "leanhello"
-root = "Main"
+# [[lean_exe]]
+# name = "leanhello"
+# root = "Main"
