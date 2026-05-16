@@ -1,4 +1,4 @@
-namespace LeanHello
+namespace LeanHelloTheorem
 
 example (p q : Prop) : p → q → p := by
   intro hp
@@ -18,4 +18,4 @@ example (n : Nat) : n + 0 = n := by
   | succ n ih =>
       simp
 
-end LeanHello
+end LeanHelloTheorem
